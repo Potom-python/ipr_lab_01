@@ -1,0 +1,45 @@
+commit 5c0e546aed843a34f33879b3a7126db2ce0a84a3
+Merge: f776e72 0549dda
+Author: Timofey <timofei50200@gmail.com>
+Date:   Sat Oct 3 11:48:49 2026 +0300
+
+    Merge branch 'feature-b'
+    
+    # Conflicts:
+    #       README.md
+
+commit 0549ddabc502955e1cfa93c18b9b2c15b16d62bf
+Author: Timofey <timofei50200@gmail.com>
+Date:   Sat Oct 3 11:47:13 2026 +0300
+
+    feature-b конфликт
+
+commit f776e720476683db887d99a78619a13aad526ef6
+Author: Timofey <timofei50200@gmail.com>
+Date:   Sat Oct 3 11:45:48 2026 +0300
+
+    main конфликт
+
+commit 99de080f7a7ec3a8adc6325d7bd91a791a13f65f
+Author: Timofey <timofei50200@gmail.com>
+Date:   Sat Oct 3 11:22:59 2026 +0300
+
+    формат
+
+commit 1e228510c00c6fa456f98ccf25aeb9edfc04f9ea
+Author: Timofey <timofei50200@gmail.com>
+Date:   Sat Oct 3 11:11:21 2026 +0300
+
+    коммит feature-a: добавить содержание 4-ой строки
+
+commit ce70c85314e9ddac77cf208ffe8e4d6c6ae117a2
+Author: Timofey <timofei50200@gmail.com>
+Date:   Sat Oct 3 11:10:37 2026 +0300
+
+    коммит feature-a: добавить содержание 3-ей строки
+
+commit d93eed98ebfe366da88560f5dc298d5993c20a2e
+Author: Timofey <timofei50200@gmail.com>
+Date:   Sat Oct 3 11:07:54 2026 +0300
+
+    first commit
